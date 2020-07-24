@@ -26,4 +26,3 @@ class Formatter {
     return result.join( " " );
   }
 }
-© 2020 GitHub, In
